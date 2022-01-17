@@ -8,7 +8,7 @@
   - Look for opportunities to be a Full-Stack Developer
 
 ##### BIO
-- ⌨️ I use: `Javascript`, `HTML`, `CSS`, `React`, `Python`, `MongoDB`, `SQL`, `Cypress`
+- ⌨️ I use: `Javascript`, `HTML`, `CSS`, `React`, `jQuery`, `Python`, `MongoDB`, `SQL`, `Cypress`
 - 💬 Ask me about Javascript, Business Development, Branding
 - 📫 How to reach me: 
 **[LinkedIn](https://www.linkedin.com/in/yuanfengdarren/), [Slack](U02B2170FN2)**
