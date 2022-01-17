@@ -16,24 +16,7 @@
   - I love travelling to look for good food 🍗
   - I used to run a business dealing with arms ........ monitor arms 🦾
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentanyf&hide_border=true&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrentanyf&layout=compact&title_color=009dff&text_color=e7e7e7&icon_color=009dff&bg_color=171c28)
+![Darren's github stats](https://github-readme-stats.vercel.app/api?username=darrentanyf&hide_border=true&show_icons=true&theme=dark)
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=darrentanyf&count_private=true&include_all_commits=true&show_icons=true&title_color=009dff&text_color=e7e7e7&icon_color=009dff&bg_color=171c28" />
-<a />
-
-<!--
-**darrentanyf/darrentanyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
